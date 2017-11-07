@@ -1,0 +1,8 @@
+SELECT 
+	EMAIL_ADDRESS_
+FROM 
+	$A$
+WHERE
+	(
+		SELECT
+	) > 2
